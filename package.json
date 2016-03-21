@@ -1,0 +1,14 @@
+{
+  "name": "timeout-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node nockTest.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nock": "^7.5.0",
+    "request": "^2.69.0"
+  }
+}
